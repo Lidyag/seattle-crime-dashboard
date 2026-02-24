@@ -1,3 +1,7 @@
+## AI Disclosure
+
+I used AI in this assignment for debugging only, specifically to troubleshoot issues with Live Server when my Mapbox map was not displaying correctly and to resolve minor GitHub setup errors. Other than that, all work was completed independently by me, and no AI tools were used to create or complete the project components.
+
 # Seattle Crime Pulse (2025–2026)
 
 ## Overview
@@ -49,4 +53,5 @@ Processed files:
 
 GitHub Pages link:
 https://lidyag.github.io/seattle-crime-dashboard/
+
 
